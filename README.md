@@ -14,3 +14,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+### `npm run server`
+
+Runs the app server.\ use another terimnal 
+Open [http://localhost:3005](http://localhost:3005) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
